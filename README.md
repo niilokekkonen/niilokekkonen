@@ -16,7 +16,7 @@ I enjoy turning ideas into working projects — from **C programs** to
 
 ## What I'm working with
 
-- **Embedded:** Raspberry Pi Pico, RP2040
+- **Embedded:** Raspberry Pi Pico, RP2040, UART, I2C, PWM
 - **Languages:** C, Python, MicroPython
 - **Interested in:** Embedded systems, electronics, and low-level programming
 
