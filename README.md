@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**niilokekkonen/niilokekkonen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Niilo 👋
 
-Here are some ideas to get you started:
+### Embedded Engineering Student (2nd year) · Learning to talk to rocks with electricity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into working projects — from **C programs** to
+**microcontroller experiments** with the Raspberry Pi Pico.
+
+[![GitHub](https://img.shields.io/badge/GitHub-niilokekkonen-181717?style=flat&logo=github)](https://github.com/niilokekkonen)
+
+</div>
+
+---
+
+## What I'm working with
+
+- **Embedded:** Raspberry Pi Pico, RP2040
+- **Languages:** C, Python, MicroPython
+- **Interested in:** Embedded systems, electronics, and low-level programming
+
+## Featured projects
+
+| Project | What it is |
+|---|---|
+| Embedded projects|
+| [Pico Programming in C](https://github.com/niilokekkonen/Pico-Programming-C) | C programming with the Raspberry Pi Pico and RP2040 |
+| [MicroPython with Pico W](https://github.com/niilokekkonen/MicroPython_With_Pico_W) | Pico W experiments, including an OLED project and potentiometer input |
+| [C Project/StuGrade](https://github.com/niilokekkonen/C_Project) | Final project for a C programming course |
+| [C Programming](https://github.com/niilokekkonen/C_Programming) | Coursework from Metropolia University of Applied Sciences |
+| Other programs & algorithms |
+| [Quicksort](https://github.com/niilokekkonen/C_Programming) | Quicksort algorithm in C |
+| [Right Triangle Calculator](https://github.com/niilokekkonen/Right_Triangle_Calculator) | A tool to calculate angles, and sides of a right triangle|
+
+## Currently learning
+
+Embedded C, microcontrollers, peripherals, serial protocols, Artificial Intelligence. 
+
+---
+
+<div align="center">
+
+*Always learning, and going forward*
+
+</div>
