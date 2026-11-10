@@ -8,6 +8,7 @@ I enjoy turning ideas into working projects — from **C programs** to
 **microcontroller experiments** with the Raspberry Pi Pico.
 
 [![GitHub](https://img.shields.io/badge/GitHub-niilokekkonen-181717?style=flat&logo=github)](https://github.com/niilokekkonen)
+[![Youtube](https://img.shields.io/badge/Youtube-skigu-181717?style=flat&logo=youtube)](https://www.youtube.com/@sskigu))
 
 </div>
 
