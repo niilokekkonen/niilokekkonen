@@ -35,7 +35,7 @@ I enjoy turning ideas into working projects — from **C programs** to
 
 ## Currently learning
 
-Embedded C, microcontrollers, peripherals, serial protocols, Artificial Intelligence. 
+Embedded C, Microcontrollers, Peripherals, Serial Protocols, Artificial Intelligence, and much more.  
 
 ---
 
