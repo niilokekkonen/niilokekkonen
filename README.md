@@ -30,7 +30,7 @@ I enjoy turning ideas into working projects — from **C programs** to
 | [C Project/StuGrade](https://github.com/niilokekkonen/C_Project) | Final project for a C programming course |
 | [C Programming](https://github.com/niilokekkonen/C_Programming) | Coursework from Metropolia University of Applied Sciences |
 | Other programs & algorithms |
-| [Quicksort](https://github.com/niilokekkonen/C_Programming) | Quicksort algorithm in C |
+| [Quicksort](https://github.com/niilokekkonen/Quicksort_Algorithm_C) | Quicksort algorithm in C |
 | [Right Triangle Calculator](https://github.com/niilokekkonen/Right_Triangle_Calculator) | A tool to calculate angles, and sides of a right triangle|
 
 ## Currently learning
