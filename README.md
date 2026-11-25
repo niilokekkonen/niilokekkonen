@@ -4,8 +4,7 @@
 
 ### Embedded Engineering Student (2nd year) · Learning to talk to rocks with electricity  
 
-I enjoy learning low-level electronics, and different technologies - from **C programs** to
-**microcontroller experiments** with the Raspberry Pi Pico.
+I enjoy learning low-level electronics, and different technologies tied to physical hardware.
 
 [![GitHub](https://img.shields.io/badge/GitHub-niilokekkonen-181717?style=flat&logo=github)](https://github.com/niilokekkonen)
 [![Youtube](https://img.shields.io/badge/Youtube-skigu-181717?style=flat&logo=youtube)](https://www.youtube.com/@sskigu)
